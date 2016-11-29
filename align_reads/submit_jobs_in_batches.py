@@ -1,17 +1,17 @@
 import os
 
 
-#f=open("list_of_jobs.txt","r")
+f=open("list_of_jobs.txt","r")
 
-f=open("subset_of_jobs.txt","r")
+#f=open("subset_of_jobs.txt","r")
 jobs=f.readlines()
 
 f.close()
 
 
-#num_of_jobs_per_batch=80
+num_of_jobs_per_batch=80
 
-num_of_jobs_per_batch=4
+#num_of_jobs_per_batch=4
 
 for i in range(0,len(jobs)):
 	jobs[i]=jobs[i].rstrip("\n")
