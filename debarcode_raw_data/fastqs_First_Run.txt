@@ -1,0 +1,6 @@
+/home/cmb-07/sn1/tkitapci/Oyster_OsHV/GBS/raw_data/Project_Hamdi_Oyster_First_Sequencing_Run/Sample_Hamdi_5/Hamdi_5_NoIndex_L006_R1_001.fastq.gz
+/home/cmb-07/sn1/tkitapci/Oyster_OsHV/GBS/raw_data/Project_Hamdi_Oyster_First_Sequencing_Run/Sample_Hamdi_1/Hamdi_1_NoIndex_L002_R1_001.fastq.gz
+/home/cmb-07/sn1/tkitapci/Oyster_OsHV/GBS/raw_data/Project_Hamdi_Oyster_First_Sequencing_Run/Sample_Hamdi_3/Hamdi_3_NoIndex_L004_R1_001.fastq.gz
+/home/cmb-07/sn1/tkitapci/Oyster_OsHV/GBS/raw_data/Project_Hamdi_Oyster_First_Sequencing_Run/Sample_Hamdi_2/Hamdi_2_NoIndex_L003_R1_001.fastq.gz
+/home/cmb-07/sn1/tkitapci/Oyster_OsHV/GBS/raw_data/Project_Hamdi_Oyster_First_Sequencing_Run/Sample_Hamdi_4/Hamdi_4_NoIndex_L005_R1_001.fastq.gz
+/home/cmb-07/sn1/tkitapci/Oyster_OsHV/GBS/raw_data/Project_Hamdi_Oyster_First_Sequencing_Run/Sample_Hamdi_0/Hamdi_0_NoIndex_L001_R1_001.fastq.gz
