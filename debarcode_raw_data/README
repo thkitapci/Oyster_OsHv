@@ -1,0 +1,9 @@
+run bash debarcode_all.sh to submit jobs to debarcode first and second run samples
+
+make sure to remove the comment
+
+after the debarcoding is done 
+
+run merge_all_debarcoded.sh to combine the fastq files from run1 and run2
+
+all paths are hardcoded so if needed modify the paths to new locations 
