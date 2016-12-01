@@ -1,0 +1,9 @@
+OsHV-genome downloaded from 
+
+
+#Colleen said that this one infects clams in China
+KP412538.1 Ostreid herpesvirus 1 strain CDSB2012, complete genome -> https://www.ncbi.nlm.nih.gov/nuccore/KP412538.1?report=fasta&log$=seqview
+
+
+#Colleen suggested to use one since this one effect Oysters
+AY509253.2 Ostreid herpesvirus 1, complete genome -> https://www.ncbi.nlm.nih.gov/nuccore/536721239?report=fasta
