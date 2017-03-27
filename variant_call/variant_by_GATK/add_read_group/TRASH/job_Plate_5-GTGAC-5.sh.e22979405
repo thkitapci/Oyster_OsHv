@@ -1,0 +1,12 @@
+[Tue Mar 14 23:55:27 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_5-GTGAC-5-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_5-GTGAC-5-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Plate_5-GTGAC-5 RGLB=Plate_5-GTGAC-5 RGPL=illumina RGPU=Plate_5-GTGAC-5 RGSM=Plate_5-GTGAC-5 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Tue Mar 14 23:55:27 PDT 2017] Executing as tkitapci@hpc3360 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-14 23:55:27	AddOrReplaceReadGroups	Created read group ID=Plate_5-GTGAC-5 PL=illumina LB=Plate_5-GTGAC-5 SM=Plate_5-GTGAC-5
+
+INFO	2017-03-14 23:55:40	AddOrReplaceReadGroups	Processed     1,000,000 records.  Elapsed time: 00:00:12s.  Time for last 1,000,000:   11s.  Last read position: scaffold41082:56,917
+INFO	2017-03-14 23:55:51	AddOrReplaceReadGroups	Processed     2,000,000 records.  Elapsed time: 00:00:22s.  Time for last 1,000,000:   10s.  Last read position: scaffold43442:110,753
+INFO	2017-03-14 23:56:01	AddOrReplaceReadGroups	Processed     3,000,000 records.  Elapsed time: 00:00:33s.  Time for last 1,000,000:   10s.  Last read position: scaffold479:10,942
+INFO	2017-03-14 23:56:11	AddOrReplaceReadGroups	Processed     4,000,000 records.  Elapsed time: 00:00:43s.  Time for last 1,000,000:   10s.  Last read position: scaffold113:590,370
+INFO	2017-03-14 23:56:21	AddOrReplaceReadGroups	Processed     5,000,000 records.  Elapsed time: 00:00:53s.  Time for last 1,000,000:    9s.  Last read position: scaffold53:711,147
+INFO	2017-03-14 23:56:31	AddOrReplaceReadGroups	Processed     6,000,000 records.  Elapsed time: 00:01:03s.  Time for last 1,000,000:    9s.  Last read position: */*
+[Tue Mar 14 23:56:33 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 1.11 minutes.
+Runtime.totalMemory()=2292187136

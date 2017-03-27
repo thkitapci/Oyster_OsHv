@@ -1,0 +1,13 @@
+[Wed Mar 15 00:32:45 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_0-ATGCCT-0-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_0-ATGCCT-0-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Plate_0-ATGCCT-0 RGLB=Plate_0-ATGCCT-0 RGPL=illumina RGPU=Plate_0-ATGCCT-0 RGSM=Plate_0-ATGCCT-0 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Wed Mar 15 00:32:45 PDT 2017] Executing as tkitapci@hpc3344 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-15 00:32:46	AddOrReplaceReadGroups	Created read group ID=Plate_0-ATGCCT-0 PL=illumina LB=Plate_0-ATGCCT-0 SM=Plate_0-ATGCCT-0
+
+INFO	2017-03-15 00:32:57	AddOrReplaceReadGroups	Processed     1,000,000 records.  Elapsed time: 00:00:10s.  Time for last 1,000,000:   10s.  Last read position: scaffold40808:91,291
+INFO	2017-03-15 00:33:07	AddOrReplaceReadGroups	Processed     2,000,000 records.  Elapsed time: 00:00:20s.  Time for last 1,000,000:    9s.  Last read position: scaffold1035:56,803
+INFO	2017-03-15 00:33:16	AddOrReplaceReadGroups	Processed     3,000,000 records.  Elapsed time: 00:00:30s.  Time for last 1,000,000:    9s.  Last read position: scaffold1462:359,366
+INFO	2017-03-15 00:33:25	AddOrReplaceReadGroups	Processed     4,000,000 records.  Elapsed time: 00:00:39s.  Time for last 1,000,000:    9s.  Last read position: scaffold1322:187,207
+INFO	2017-03-15 00:33:34	AddOrReplaceReadGroups	Processed     5,000,000 records.  Elapsed time: 00:00:48s.  Time for last 1,000,000:    9s.  Last read position: scaffold502:224,488
+INFO	2017-03-15 00:33:43	AddOrReplaceReadGroups	Processed     6,000,000 records.  Elapsed time: 00:00:57s.  Time for last 1,000,000:    8s.  Last read position: */*
+INFO	2017-03-15 00:33:51	AddOrReplaceReadGroups	Processed     7,000,000 records.  Elapsed time: 00:01:05s.  Time for last 1,000,000:    7s.  Last read position: */*
+[Wed Mar 15 00:33:53 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 1.13 minutes.
+Runtime.totalMemory()=2257584128

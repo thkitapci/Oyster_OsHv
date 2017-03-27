@@ -1,0 +1,29 @@
+----------------------------------------
+Begin PBS Prologue Wed Mar 15 00:38:40 PDT 2017
+Job ID:            22979742.hpc-pbs1.hpcc.usc.edu
+Username:          tkitapci
+Group:             csci-ar
+Project:           default
+Name:              job_Plate_2-TTAGGCCGC-2.sh
+Queue:             cegs
+Shared Access:     yes
+All Cores:         no
+Has MIC:           no
+Nodes:             hpc3344 
+TMPDIR:            /tmp/22979742.hpc-pbs1.hpcc.usc.edu
+End PBS Prologue Wed Mar 15 00:38:41 PDT 2017
+----------------------------------------
+----------------------------------------
+Begin PBS Epilogue Wed Mar 15 00:41:43 PDT 2017
+Job ID:           22979742.hpc-pbs1.hpcc.usc.edu
+Username:         tkitapci
+Group:            csci-ar
+Job Name:         job_Plate_2-TTAGGCCGC-2.sh
+Session:          21413
+Limits:           mem=5000mb,neednodes=1:ppn=1,nodes=1:ppn=1,pmem=5000mb,vmem=5000mb,walltime=05:00:00
+Resources:        cput=00:02:59,energy_used=0,mem=990892kb,vmem=4936480kb,walltime=00:03:03
+Queue:            cegs
+Shared Access:    yes
+Has MIC:          no
+End PBS Epilogue Wed Mar 15 00:41:43 PDT 2017
+----------------------------------------

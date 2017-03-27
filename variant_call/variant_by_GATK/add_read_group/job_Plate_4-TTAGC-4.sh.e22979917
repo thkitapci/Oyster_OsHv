@@ -1,0 +1,50 @@
+[Wed Mar 15 00:42:56 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_4-TTAGC-4-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_4-TTAGC-4-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Plate_4-TTAGC-4 RGLB=Plate_4-TTAGC-4 RGPL=illumina RGPU=Plate_4-TTAGC-4 RGSM=Plate_4-TTAGC-4 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Wed Mar 15 00:42:56 PDT 2017] Executing as tkitapci@hpc3356 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-15 00:42:57	AddOrReplaceReadGroups	Created read group ID=Plate_4-TTAGC-4 PL=illumina LB=Plate_4-TTAGC-4 SM=Plate_4-TTAGC-4
+
+INFO	2017-03-15 00:43:09	AddOrReplaceReadGroups	Processed     1,000,000 records.  Elapsed time: 00:00:11s.  Time for last 1,000,000:   11s.  Last read position: C31004:5,581
+INFO	2017-03-15 00:43:19	AddOrReplaceReadGroups	Processed     2,000,000 records.  Elapsed time: 00:00:21s.  Time for last 1,000,000:   10s.  Last read position: C35134:4,107
+INFO	2017-03-15 00:43:29	AddOrReplaceReadGroups	Processed     3,000,000 records.  Elapsed time: 00:00:31s.  Time for last 1,000,000:   10s.  Last read position: scaffold37966:45,464
+INFO	2017-03-15 00:43:39	AddOrReplaceReadGroups	Processed     4,000,000 records.  Elapsed time: 00:00:41s.  Time for last 1,000,000:    9s.  Last read position: scaffold1464:45,597
+INFO	2017-03-15 00:43:49	AddOrReplaceReadGroups	Processed     5,000,000 records.  Elapsed time: 00:00:51s.  Time for last 1,000,000:    9s.  Last read position: scaffold40270:86,440
+INFO	2017-03-15 00:43:59	AddOrReplaceReadGroups	Processed     6,000,000 records.  Elapsed time: 00:01:01s.  Time for last 1,000,000:    9s.  Last read position: scaffold1725:41,118
+INFO	2017-03-15 00:44:08	AddOrReplaceReadGroups	Processed     7,000,000 records.  Elapsed time: 00:01:10s.  Time for last 1,000,000:    9s.  Last read position: scaffold1761:8,990
+INFO	2017-03-15 00:44:18	AddOrReplaceReadGroups	Processed     8,000,000 records.  Elapsed time: 00:01:20s.  Time for last 1,000,000:    9s.  Last read position: scaffold42236:5,275
+INFO	2017-03-15 00:44:28	AddOrReplaceReadGroups	Processed     9,000,000 records.  Elapsed time: 00:01:30s.  Time for last 1,000,000:    9s.  Last read position: scaffold42596:11,390
+INFO	2017-03-15 00:44:38	AddOrReplaceReadGroups	Processed    10,000,000 records.  Elapsed time: 00:01:40s.  Time for last 1,000,000:    9s.  Last read position: scaffold42896:45,387
+INFO	2017-03-15 00:44:47	AddOrReplaceReadGroups	Processed    11,000,000 records.  Elapsed time: 00:01:49s.  Time for last 1,000,000:    9s.  Last read position: scaffold43150:199,667
+INFO	2017-03-15 00:44:57	AddOrReplaceReadGroups	Processed    12,000,000 records.  Elapsed time: 00:01:59s.  Time for last 1,000,000:    9s.  Last read position: scaffold43364:153,507
+INFO	2017-03-15 00:45:07	AddOrReplaceReadGroups	Processed    13,000,000 records.  Elapsed time: 00:02:09s.  Time for last 1,000,000:    9s.  Last read position: scaffold954:193,984
+INFO	2017-03-15 00:45:17	AddOrReplaceReadGroups	Processed    14,000,000 records.  Elapsed time: 00:02:19s.  Time for last 1,000,000:    9s.  Last read position: scaffold1527:51,016
+INFO	2017-03-15 00:45:27	AddOrReplaceReadGroups	Processed    15,000,000 records.  Elapsed time: 00:02:29s.  Time for last 1,000,000:    9s.  Last read position: scaffold1805:270,458
+INFO	2017-03-15 00:45:36	AddOrReplaceReadGroups	Processed    16,000,000 records.  Elapsed time: 00:02:38s.  Time for last 1,000,000:    9s.  Last read position: scaffold1888:279,429
+INFO	2017-03-15 00:45:46	AddOrReplaceReadGroups	Processed    17,000,000 records.  Elapsed time: 00:02:48s.  Time for last 1,000,000:    9s.  Last read position: scaffold162:51,811
+INFO	2017-03-15 00:45:56	AddOrReplaceReadGroups	Processed    18,000,000 records.  Elapsed time: 00:02:58s.  Time for last 1,000,000:    9s.  Last read position: scaffold655:60,541
+INFO	2017-03-15 00:46:06	AddOrReplaceReadGroups	Processed    19,000,000 records.  Elapsed time: 00:03:08s.  Time for last 1,000,000:    9s.  Last read position: scaffold227:234,128
+INFO	2017-03-15 00:46:15	AddOrReplaceReadGroups	Processed    20,000,000 records.  Elapsed time: 00:03:18s.  Time for last 1,000,000:    9s.  Last read position: scaffold1863:119,806
+INFO	2017-03-15 00:46:25	AddOrReplaceReadGroups	Processed    21,000,000 records.  Elapsed time: 00:03:27s.  Time for last 1,000,000:    9s.  Last read position: scaffold1670:187,388
+INFO	2017-03-15 00:46:35	AddOrReplaceReadGroups	Processed    22,000,000 records.  Elapsed time: 00:03:37s.  Time for last 1,000,000:    9s.  Last read position: scaffold290:104,700
+INFO	2017-03-15 00:46:45	AddOrReplaceReadGroups	Processed    23,000,000 records.  Elapsed time: 00:03:47s.  Time for last 1,000,000:    9s.  Last read position: scaffold1698:312,466
+INFO	2017-03-15 00:46:55	AddOrReplaceReadGroups	Processed    24,000,000 records.  Elapsed time: 00:03:57s.  Time for last 1,000,000:    9s.  Last read position: scaffold1857:106,779
+INFO	2017-03-15 00:47:04	AddOrReplaceReadGroups	Processed    25,000,000 records.  Elapsed time: 00:04:06s.  Time for last 1,000,000:    9s.  Last read position: scaffold610:404,112
+INFO	2017-03-15 00:47:14	AddOrReplaceReadGroups	Processed    26,000,000 records.  Elapsed time: 00:04:16s.  Time for last 1,000,000:    9s.  Last read position: scaffold164:585,806
+INFO	2017-03-15 00:47:24	AddOrReplaceReadGroups	Processed    27,000,000 records.  Elapsed time: 00:04:26s.  Time for last 1,000,000:    9s.  Last read position: scaffold364:33,455
+INFO	2017-03-15 00:47:34	AddOrReplaceReadGroups	Processed    28,000,000 records.  Elapsed time: 00:04:36s.  Time for last 1,000,000:    9s.  Last read position: scaffold1258:340,380
+INFO	2017-03-15 00:47:44	AddOrReplaceReadGroups	Processed    29,000,000 records.  Elapsed time: 00:04:46s.  Time for last 1,000,000:    9s.  Last read position: scaffold502:656,258
+INFO	2017-03-15 00:47:53	AddOrReplaceReadGroups	Processed    30,000,000 records.  Elapsed time: 00:04:55s.  Time for last 1,000,000:    9s.  Last read position: scaffold885:162,527
+INFO	2017-03-15 00:48:03	AddOrReplaceReadGroups	Processed    31,000,000 records.  Elapsed time: 00:05:05s.  Time for last 1,000,000:    9s.  Last read position: scaffold1174:820,243
+INFO	2017-03-15 00:48:13	AddOrReplaceReadGroups	Processed    32,000,000 records.  Elapsed time: 00:05:15s.  Time for last 1,000,000:    9s.  Last read position: scaffold601:1,213,949
+INFO	2017-03-15 00:48:23	AddOrReplaceReadGroups	Processed    33,000,000 records.  Elapsed time: 00:05:25s.  Time for last 1,000,000:    9s.  Last read position: scaffold1301:1,066,729
+INFO	2017-03-15 00:48:33	AddOrReplaceReadGroups	Processed    34,000,000 records.  Elapsed time: 00:05:35s.  Time for last 1,000,000:    9s.  Last read position: scaffold150:758,941
+INFO	2017-03-15 00:48:42	AddOrReplaceReadGroups	Processed    35,000,000 records.  Elapsed time: 00:05:44s.  Time for last 1,000,000:    9s.  Last read position: */*
+INFO	2017-03-15 00:48:51	AddOrReplaceReadGroups	Processed    36,000,000 records.  Elapsed time: 00:05:53s.  Time for last 1,000,000:    9s.  Last read position: */*
+INFO	2017-03-15 00:49:00	AddOrReplaceReadGroups	Processed    37,000,000 records.  Elapsed time: 00:06:02s.  Time for last 1,000,000:    9s.  Last read position: */*
+INFO	2017-03-15 00:49:10	AddOrReplaceReadGroups	Processed    38,000,000 records.  Elapsed time: 00:06:12s.  Time for last 1,000,000:    9s.  Last read position: */*
+INFO	2017-03-15 00:49:20	AddOrReplaceReadGroups	Processed    39,000,000 records.  Elapsed time: 00:06:22s.  Time for last 1,000,000:   10s.  Last read position: */*
+INFO	2017-03-15 00:49:30	AddOrReplaceReadGroups	Processed    40,000,000 records.  Elapsed time: 00:06:32s.  Time for last 1,000,000:   10s.  Last read position: */*
+INFO	2017-03-15 00:49:40	AddOrReplaceReadGroups	Processed    41,000,000 records.  Elapsed time: 00:06:42s.  Time for last 1,000,000:   10s.  Last read position: */*
+INFO	2017-03-15 00:49:50	AddOrReplaceReadGroups	Processed    42,000,000 records.  Elapsed time: 00:06:53s.  Time for last 1,000,000:   10s.  Last read position: */*
+INFO	2017-03-15 00:50:01	AddOrReplaceReadGroups	Processed    43,000,000 records.  Elapsed time: 00:07:03s.  Time for last 1,000,000:   10s.  Last read position: */*
+INFO	2017-03-15 00:50:11	AddOrReplaceReadGroups	Processed    44,000,000 records.  Elapsed time: 00:07:13s.  Time for last 1,000,000:   10s.  Last read position: */*
+[Wed Mar 15 00:50:15 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 7.31 minutes.
+Runtime.totalMemory()=1486356480

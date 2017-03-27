@@ -1,0 +1,29 @@
+----------------------------------------
+Begin PBS Prologue Wed Mar 15 10:03:05 PDT 2017
+Job ID:            22980298.hpc-pbs1.hpcc.usc.edu
+Username:          tkitapci
+Group:             csci-ar
+Project:           default
+Name:              job_GATK_var_calling.sh
+Queue:             cegs
+Shared Access:     yes
+All Cores:         no
+Has MIC:           no
+Nodes:             hpc3340 
+TMPDIR:            /tmp/22980298.hpc-pbs1.hpcc.usc.edu
+End PBS Prologue Wed Mar 15 10:03:05 PDT 2017
+----------------------------------------
+----------------------------------------
+Begin PBS Epilogue Thu Mar 23 18:03:31 PDT 2017
+Job ID:           22980298.hpc-pbs1.hpcc.usc.edu
+Username:         tkitapci
+Group:            csci-ar
+Job Name:         job_GATK_var_calling.sh
+Session:          12397
+Limits:           mem=128000mb,neednodes=1:ppn=1,nodes=1:ppn=1,pmem=128000mb,vmem=128000mb,walltime=200:00:00
+Resources:        cput=199:17:57,energy_used=0,mem=32360124kb,vmem=99636564kb,walltime=200:00:26
+Queue:            cegs
+Shared Access:    yes
+Has MIC:          no
+End PBS Epilogue Thu Mar 23 18:03:31 PDT 2017
+----------------------------------------

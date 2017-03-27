@@ -1,0 +1,9 @@
+[Wed Mar 15 00:36:03 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_2-ACCGT-2-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_2-ACCGT-2-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Plate_2-ACCGT-2 RGLB=Plate_2-ACCGT-2 RGPL=illumina RGPU=Plate_2-ACCGT-2 RGSM=Plate_2-ACCGT-2 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Wed Mar 15 00:36:03 PDT 2017] Executing as tkitapci@hpc3368 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-15 00:36:03	AddOrReplaceReadGroups	Created read group ID=Plate_2-ACCGT-2 PL=illumina LB=Plate_2-ACCGT-2 SM=Plate_2-ACCGT-2
+
+INFO	2017-03-15 00:36:17	AddOrReplaceReadGroups	Processed     1,000,000 records.  Elapsed time: 00:00:12s.  Time for last 1,000,000:   12s.  Last read position: scaffold550:193,468
+INFO	2017-03-15 00:36:28	AddOrReplaceReadGroups	Processed     2,000,000 records.  Elapsed time: 00:00:24s.  Time for last 1,000,000:   11s.  Last read position: scaffold393:1,115,112
+INFO	2017-03-15 00:36:38	AddOrReplaceReadGroups	Processed     3,000,000 records.  Elapsed time: 00:00:34s.  Time for last 1,000,000:    9s.  Last read position: */*
+[Wed Mar 15 00:36:42 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 0.65 minutes.
+Runtime.totalMemory()=2227699712

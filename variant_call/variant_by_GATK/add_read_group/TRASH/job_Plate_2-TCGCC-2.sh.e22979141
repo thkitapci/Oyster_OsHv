@@ -1,0 +1,12 @@
+[Tue Mar 14 23:40:24 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_2-TCGCC-2-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_2-TCGCC-2-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Plate_2-TCGCC-2 RGLB=Plate_2-TCGCC-2 RGPL=illumina RGPU=Plate_2-TCGCC-2 RGSM=Plate_2-TCGCC-2 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Tue Mar 14 23:40:24 PDT 2017] Executing as tkitapci@hpc3380 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-14 23:40:25	AddOrReplaceReadGroups	Created read group ID=Plate_2-TCGCC-2 PL=illumina LB=Plate_2-TCGCC-2 SM=Plate_2-TCGCC-2
+
+INFO	2017-03-14 23:40:39	AddOrReplaceReadGroups	Processed     1,000,000 records.  Elapsed time: 00:00:13s.  Time for last 1,000,000:   13s.  Last read position: scaffold40442:8,507
+INFO	2017-03-14 23:40:50	AddOrReplaceReadGroups	Processed     2,000,000 records.  Elapsed time: 00:00:25s.  Time for last 1,000,000:   11s.  Last read position: scaffold43084:182,726
+INFO	2017-03-14 23:41:02	AddOrReplaceReadGroups	Processed     3,000,000 records.  Elapsed time: 00:00:37s.  Time for last 1,000,000:   11s.  Last read position: scaffold43836:140,547
+INFO	2017-03-14 23:41:14	AddOrReplaceReadGroups	Processed     4,000,000 records.  Elapsed time: 00:00:48s.  Time for last 1,000,000:   11s.  Last read position: scaffold1402:159,151
+INFO	2017-03-14 23:41:25	AddOrReplaceReadGroups	Processed     5,000,000 records.  Elapsed time: 00:01:00s.  Time for last 1,000,000:   11s.  Last read position: scaffold513:724,997
+INFO	2017-03-14 23:41:37	AddOrReplaceReadGroups	Processed     6,000,000 records.  Elapsed time: 00:01:11s.  Time for last 1,000,000:   11s.  Last read position: scaffold53:1,044,965
+[Tue Mar 14 23:41:46 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 1.38 minutes.
+Runtime.totalMemory()=2238185472

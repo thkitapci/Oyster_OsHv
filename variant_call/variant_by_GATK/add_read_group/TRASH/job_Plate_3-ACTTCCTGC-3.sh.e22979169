@@ -1,0 +1,6 @@
+[Tue Mar 14 23:45:43 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_3-ACTTCCTGC-3-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Plate_3-ACTTCCTGC-3-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Plate_3-ACTTCCTGC-3 RGLB=Plate_3-ACTTCCTGC-3 RGPL=illumina RGPU=Plate_3-ACTTCCTGC-3 RGSM=Plate_3-ACTTCCTGC-3 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Tue Mar 14 23:45:43 PDT 2017] Executing as tkitapci@hpc1092 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-14 23:45:44	AddOrReplaceReadGroups	Created read group ID=Plate_3-ACTTCCTGC-3 PL=illumina LB=Plate_3-ACTTCCTGC-3 SM=Plate_3-ACTTCCTGC-3
+
+[Tue Mar 14 23:45:56 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 0.22 minutes.
+Runtime.totalMemory()=954204160

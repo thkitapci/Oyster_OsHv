@@ -1,0 +1,12 @@
+[Wed Mar 15 00:32:38 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups INPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Parent_52-sorted-rmdupped.bam OUTPUT=/staging/sn1/tkitapci/Oyster_OsHv/alignments_Run1_Run2_Merged/Parent_52-sorted-rmdupped.bam.read_group_added.bam SORT_ORDER=coordinate RGID=Parent_52 RGLB=Parent_52 RGPL=illumina RGPU=Parent_52 RGSM=Parent_52 VALIDATION_STRINGENCY=SILENT    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Wed Mar 15 00:32:38 PDT 2017] Executing as tkitapci@hpc1102 on Linux 3.10.0-327.22.2.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_51-b13; Picard version: 1.110(1752) IntelDeflater
+INFO	2017-03-15 00:32:40	AddOrReplaceReadGroups	Created read group ID=Parent_52 PL=illumina LB=Parent_52 SM=Parent_52
+
+INFO	2017-03-15 00:33:03	AddOrReplaceReadGroups	Processed     1,000,000 records.  Elapsed time: 00:00:22s.  Time for last 1,000,000:   22s.  Last read position: scaffold41022:96,875
+INFO	2017-03-15 00:33:24	AddOrReplaceReadGroups	Processed     2,000,000 records.  Elapsed time: 00:00:43s.  Time for last 1,000,000:   20s.  Last read position: scaffold43272:151,669
+INFO	2017-03-15 00:33:44	AddOrReplaceReadGroups	Processed     3,000,000 records.  Elapsed time: 00:01:03s.  Time for last 1,000,000:   19s.  Last read position: scaffold659:105,043
+INFO	2017-03-15 00:34:03	AddOrReplaceReadGroups	Processed     4,000,000 records.  Elapsed time: 00:01:22s.  Time for last 1,000,000:   19s.  Last read position: scaffold563:256,522
+INFO	2017-03-15 00:34:23	AddOrReplaceReadGroups	Processed     5,000,000 records.  Elapsed time: 00:01:42s.  Time for last 1,000,000:   19s.  Last read position: scaffold70:33,042
+INFO	2017-03-15 00:34:43	AddOrReplaceReadGroups	Processed     6,000,000 records.  Elapsed time: 00:02:02s.  Time for last 1,000,000:   19s.  Last read position: */*
+[Wed Mar 15 00:34:46 PDT 2017] net.sf.picard.sam.AddOrReplaceReadGroups done. Elapsed time: 2.15 minutes.
+Runtime.totalMemory()=1330118656
