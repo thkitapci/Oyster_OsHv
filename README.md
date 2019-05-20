@@ -3,7 +3,7 @@ Mapping genes conferring resistance to OsHV-1 in the Pacific Oyster
 Crassostrea gigas 
 
 Understanding the genetic basis of resistance to ostreid herpes virus 1 (OsHV-1) by the 
-Pacific oyster is important for the global oyster industry. The virulent Var forms of OsHV-1 have 
+Pacific oyster is important for the global oyster industry. The virulent μVar forms of OsHV-1 have 
 caused devastating losses of farmed Pacific oysters in Western Europe, Australia, New Zealand, 
 and Asia, and OsHV-1 µVar is expected eventually to arrive on the U.S. West Coast. Since 1993, 
 OsHV-1 has caused mass mortalities of seed and juvenile Pacific oysters in Tomales Bay, CA, 
