@@ -13,7 +13,7 @@ loci) for resistance to OsHV-1 infection or mortality. Two full-sib families (12
 from four unrelated parents were produced and planted in Tomales Bay before OsHV-1-caused 
 mass mortalities in late September 2015. Over a two-week period, family 12x52 experienced 55%, 
 and family 58x19, 16% mortality. Reduced representational genomic libraries were constructed 
-for pre- and post-exposure samples (268 individuals from 12x52 and 290 individuals from 5819) 
+for pre- and post-exposure samples (268 individuals from 12x52 and 290 individuals from 58x19) 
 as well as the parents of the two families. Individual libraries were bar-coded and sequenced in 
 pools, using genotyping-by-synthesis methods. Changes in genotypic frequencies particular to the 
 exposure period suggest that seven viability QTLs in families 58x19 and 12x52, are associated 
